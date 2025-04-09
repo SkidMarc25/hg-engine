@@ -5,7 +5,7 @@ a Lass
 a Camper
 a Picnicker
 a Bug Catcher
-an Aroma Lady
+a Delinquent
 the Twins
 a Hiker
 a Battle Girl
@@ -14,21 +14,21 @@ a Cyclist
 a Cyclist
 a Black Belt
 an Artist
-a ₧₦ Breeder
-a ₧₦ Breeder
+a Rocket
+a Rocket
 a Cowgirl
 a Jogger
 a Pokéfan
 a Pokéfan
-a Poké Kid
-a rival
+a Bug Maniac
+a ₧₦ Trainer
 an Ace Trainer
 an Ace Trainer
-a Waitress
+a ₧₦ Trainer
 a Veteran
-a Ninja Boy
+a Ninja Girl
 a Dragon Tamer
-a Bird Keeper
+a Tourist
 a Juggler
 a Rich Boy
 a Lady
@@ -38,8 +38,8 @@ a Beauty
 a Collector
 a Policeman
 a ₧₦ Ranger
-a ₧₦ Ranger
-a Scientist
+a ₧₦ Trainer
+a Researcher
 a Swimmer♂
 a Swimmer♀
 a Tuber
@@ -49,14 +49,14 @@ a Kimono Girl
 a Ruin Maniac
 a Psychic
 a Psychic
-a PI
+a Gambler
 a Guitarist
 an Ace Trainer
 an Ace Trainer
 a Team Rocket
 a Skier
 a Roughneck
-a Clown
+a Punk
 a Worker
 a School Kid
 a School Kid
@@ -78,12 +78,12 @@ a Leader
 a Teacher
 a Super Nerd
 a Sage
-a Parasol Lady
-a Waiter
+a ₧₦ Trainer
+a ₧₦ Trainer
 a Medium
-a Cameraman
-a Reporter
-an Idol
+a Tourist
+a Tourist
+a Tourist
 a Champion
 an Elite Four
 an Elite Four
@@ -113,17 +113,17 @@ an Elder
 an Elite Four
 a Scientist
 an Executive
-a Boarder
+an Boarder
 an Executive
 an Executive
 an Executive
-a Passerby
+a Veteran
 a Mystery Man
 a Double Team
 a Young Couple
 a ₧₦ Trainer
 a Rocket Boss
-a ₧₦ Trainer
-a ₧₦ Trainer
-a ₧₦ Trainer
-a ₧₦ Trainer
+a Rising Star
+a Rising Star
+a Backpacker
+a Backpacker
