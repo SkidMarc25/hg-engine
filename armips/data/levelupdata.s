@@ -3489,15 +3489,15 @@ levelup SPECIES_MEW
 levelup SPECIES_CHIKORITA
     learnset MOVE_GROWL, 1
     learnset MOVE_TACKLE, 1
-    learnset MOVE_RAZOR_LEAF, 6
+    learnset MOVE_ABSORB, 6
     learnset MOVE_POISON_POWDER, 9
     learnset MOVE_SYNTHESIS, 12
-    learnset MOVE_REFLECT, 17
-    learnset MOVE_MAGICAL_LEAF, 20
+    learnset MOVE_MEGA_DRAIN, 17
+    learnset MOVE_REFLECT, 20
     learnset MOVE_LEECH_SEED, 23
     learnset MOVE_SWEET_SCENT, 28
-    learnset MOVE_LIGHT_SCREEN, 31
-    learnset MOVE_BODY_SLAM, 34
+    learnset MOVE_BODY_SLAM, 31
+    learnset MOVE_ANCIENT_POWER, 34
     learnset MOVE_SAFEGUARD, 39
     learnset MOVE_GIGA_DRAIN, 42
     learnset MOVE_AROMATHERAPY, 42
@@ -3506,17 +3506,18 @@ levelup SPECIES_CHIKORITA
 
 
 levelup SPECIES_BAYLEEF
+    learnset MOVE_RAZOR_LEAF, 0
     learnset MOVE_GROWL, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_RAZOR_LEAF, 1
     learnset MOVE_TACKLE, 1
     learnset MOVE_SYNTHESIS, 12
-    learnset MOVE_REFLECT, 18
-    learnset MOVE_MAGICAL_LEAF, 22
+    learnset MOVE_MEGA_DRAIN, 18
+    learnset MOVE_REFLECT, 22
     learnset MOVE_LEECH_SEED, 26
     learnset MOVE_SWEET_SCENT, 32
-    learnset MOVE_LIGHT_SCREEN, 36
-    learnset MOVE_BODY_SLAM, 40
+    learnset MOVE_BODY_SLAM, 36
+    learnset MOVE_ANCIENT_POWER, 40
     learnset MOVE_SAFEGUARD, 46
     learnset MOVE_GIGA_DRAIN, 50
     learnset MOVE_AROMATHERAPY, 50
@@ -3533,12 +3534,12 @@ levelup SPECIES_MEGANIUM
     learnset MOVE_RAZOR_LEAF, 1
     learnset MOVE_TACKLE, 1
     learnset MOVE_SYNTHESIS, 12
-    learnset MOVE_REFLECT, 18
-    learnset MOVE_MAGICAL_LEAF, 22
+    learnset MOVE_MEGA_DRAIN, 18
+    learnset MOVE_REFLECT, 22
     learnset MOVE_LEECH_SEED, 26
     learnset MOVE_SWEET_SCENT, 34
-    learnset MOVE_LIGHT_SCREEN, 40
-    learnset MOVE_BODY_SLAM, 46
+    learnset MOVE_BODY_SLAM, 40
+    learnset MOVE_ANCIENT_POWER, 46
     learnset MOVE_SAFEGUARD, 54
     learnset MOVE_GIGA_DRAIN, 60
     learnset MOVE_AROMATHERAPY, 60
