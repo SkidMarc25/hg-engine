@@ -5,7 +5,7 @@ Lass
 Camper
 Picnicker
 Bug Catcher
-Aroma Lady
+Delinquent
 Twins
 Hiker
 Battle Girl
@@ -14,21 +14,21 @@ Cyclist
 Cyclist
 Black Belt
 Artist
-₧₦ Breeder
-₧₦ Breeder
+Rocket
+Rocket
 Cowgirl
 Jogger
 Pokéfan
 Pokéfan
-Poké Kid
-Rival
+Bug Maniac
+₧₦ Trainer
 Ace Trainer
 Ace Trainer
-Waitress
+₧₦ Trainer
 Veteran
-Ninja Boy
+Ninja Girl
 Dragon Tamer
-Bird Keeper
+Tourist
 Juggler
 Rich Boy
 Lady
@@ -38,8 +38,8 @@ Beauty
 Collector
 Policeman
 ₧₦ Ranger
-₧₦ Ranger
-Scientist
+₧₦ Trainer
+Researcher
 Swimmer♂
 Swimmer♀
 Tuber
@@ -49,14 +49,14 @@ Kimono Girl
 Ruin Maniac
 Psychic
 Psychic
-PI
+Gambler
 Guitarist
 Ace Trainer
 Ace Trainer
 Team Rocket
 Skier
 Roughneck
-Clown
+Punk
 Worker
 School Kid
 School Kid
@@ -78,12 +78,12 @@ Leader
 Teacher
 Super Nerd
 Sage
-Parasol Lady
-Waiter
+₧₦ Trainer
+₧₦ Trainer
 Medium
-Cameraman
-Reporter
-Idol
+Tourist
+Tourist
+Tourist
 Champion
 Elite Four
 Elite Four
@@ -117,13 +117,13 @@ Boarder
 Executive
 Executive
 Executive
-Passerby
+Veteran
 Mystery Man
 Double Team
 Young Couple
 ₧₦ Trainer
 Rocket Boss
-₧₦ Trainer
-₧₦ Trainer
-₧₦ Trainer
-₧₦ Trainer
+Rising Star
+Rising Star
+Backpacker
+Backpacker
