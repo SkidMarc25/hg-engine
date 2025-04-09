@@ -16688,9 +16688,9 @@ trainerdata 494, "Georgina"
         ballseal 0
     endparty
 
-trainerdata 495, "Boy"
+trainerdata 495, "???"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_PASSERBY
+    trainerclass TRAINERCLASS_RIVAL
     nummons 1
     item ITEM_NONE
     item ITEM_NONE
@@ -16709,9 +16709,9 @@ trainerdata 495, "Boy"
         ballseal 0
     endparty
 
-trainerdata 496, "Boy"
+trainerdata 496, "???"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_PASSERBY
+    trainerclass TRAINERCLASS_RIVAL
     nummons 1
     item ITEM_NONE
     item ITEM_NONE
@@ -16730,9 +16730,9 @@ trainerdata 496, "Boy"
         ballseal 0
     endparty
 
-trainerdata 497, "Boy"
+trainerdata 497, "???"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_PASSERBY
+    trainerclass TRAINERCLASS_RIVAL
     nummons 1
     item ITEM_NONE
     item ITEM_NONE
