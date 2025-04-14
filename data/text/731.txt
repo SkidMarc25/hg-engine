@@ -14,7 +14,7 @@ a Cyclist
 a Cyclist
 a Black Belt
 an Artist
-a Rocket
+a ₧₦ Breeder
 a Rocket
 a Cowgirl
 a Jogger
@@ -38,7 +38,7 @@ a Beauty
 a Collector
 a Policeman
 a ₧₦ Ranger
-a ₧₦ Trainer
+a ₧₦ Ranger
 a Researcher
 a Swimmer♂
 a Swimmer♀
@@ -82,8 +82,8 @@ a ₧₦ Trainer
 a ₧₦ Trainer
 a Medium
 a Tourist
-a Tourist
-a Tourist
+a News Crew
+an Idol
 a Champion
 an Elite Four
 an Elite Four
@@ -125,5 +125,5 @@ a ₧₦ Trainer
 a Rocket Boss
 a Rising Star
 a Rising Star
-a Backpacker
-a Backpacker
+a Rocket
+a Tourist
