@@ -14,7 +14,7 @@ Cyclist
 Cyclist
 Black Belt
 Artist
-Rocket
+₧₦ Breeder
 Rocket
 Cowgirl
 Jogger
@@ -38,7 +38,7 @@ Beauty
 Collector
 Policeman
 ₧₦ Ranger
-₧₦ Trainer
+₧₦ Ranger
 Researcher
 Swimmer♂
 Swimmer♀
@@ -82,8 +82,8 @@ Sage
 ₧₦ Trainer
 Medium
 Tourist
-Tourist
-Tourist
+Reporter
+Idol
 Champion
 Elite Four
 Elite Four
@@ -125,5 +125,5 @@ Young Couple
 Rocket Boss
 Rising Star
 Rising Star
-Backpacker
-Backpacker
+Rocket
+Tourist
