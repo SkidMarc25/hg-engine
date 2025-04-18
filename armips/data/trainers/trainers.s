@@ -388,7 +388,7 @@ trainerdata 12, "Grunt"
         ivs 30
         abilityslot 0
         level 9
-        pokemon SPECIES_SEEDOT
+        pokemon SPECIES_KOFFING
         ballseal 0
 
         // mon 2
@@ -416,7 +416,7 @@ trainerdata 13, "Grunt"
         ivs 30
         abilityslot 0
         level 9
-        pokemon SPECIES_ODDISH
+        pokemon SPECIES_SEEDOT
         ballseal 0
 
         // mon 1
@@ -2326,7 +2326,7 @@ trainerdata 65, "Gina"
         ivs 0
         abilityslot 0
         level 12
-        pokemon SPECIES_DENDENNE
+        pokemon SPECIES_DEDENNE
         ballseal 0
     endparty
 
@@ -2783,7 +2783,7 @@ trainerdata 81, "Tori & Til"
         ivs 0
         abilityslot 0
         level 16
-        pokemon SPECIES_DENDENNE
+        pokemon SPECIES_DEDENNE
         ballseal 0
 
         // mon 1
@@ -4712,7 +4712,7 @@ trainerdata 142, "Gina"
         ivs 10
         abilityslot 0
         level 32
-        pokemon SPECIES_DENDENNE
+        pokemon SPECIES_DEDENNE
         ballseal 0
     endparty
 
@@ -6918,29 +6918,29 @@ trainerdata 216, "Grunt"
         // mon 0
         ivs 30
         abilityslot 32
-        level 16
-        pokemon SPECIES_RATTATA
+        level 26
+        pokemon SPECIES_SPINARAK
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 32
-        level 16
+        level 26
         pokemon SPECIES_RATTATA
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 32
-        level 16
-        pokemon SPECIES_RATTATA
+        level 26
+        pokemon SPECIES_MANKEY
         ballseal 0
 
         // mon 3
         ivs 30
         abilityslot 32
-        level 16
-        pokemon SPECIES_RATTATA
+        level 26
+        pokemon SPECIES_GOLBAT
         ballseal 0
     endparty
 
@@ -6981,7 +6981,7 @@ trainerdata 217, "Denis"
 
 trainerdata 218, "Grunt"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_TEAM_ROCKET
+    trainerclass TRAINERCLASS_PKMN_BREEDER_F
     nummons 1
     item ITEM_NONE
     item ITEM_NONE
@@ -6995,8 +6995,8 @@ trainerdata 218, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 18
-        pokemon SPECIES_GOLBAT
+        level 34
+        pokemon SPECIES_NUZLEAF
         ballseal 0
     endparty
 
@@ -7051,15 +7051,15 @@ trainerdata 220, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 18
-        pokemon SPECIES_VENONAT
+        level 28
+        pokemon SPECIES_SKORUPI
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 32
-        level 18
-        pokemon SPECIES_VENONAT
+        level 28
+        pokemon SPECIES_MACHOKE
         ballseal 0
     endparty
 
@@ -7128,15 +7128,15 @@ trainerdata 223, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 17
+        level 27
         pokemon SPECIES_DROWZEE
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 19
-        pokemon SPECIES_ZUBAT
+        level 28
+        pokemon SPECIES_ARIADOS
         ballseal 0
     endparty
 
@@ -7156,22 +7156,22 @@ trainerdata 224, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 16
-        pokemon SPECIES_ZUBAT
+        level 26
+        pokemon SPECIES_NUZLEAF
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 17
+        level 27
         pokemon SPECIES_GRIMER
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 32
-        level 18
-        pokemon SPECIES_RATTATA
+        level 28
+        pokemon SPECIES_RATICATE
         ballseal 0
     endparty
 
@@ -11879,7 +11879,7 @@ trainerdata 334, "Gina"
         ivs 0
         abilityslot 0
         level 44
-        pokemon SPECIES_DENDENNE
+        pokemon SPECIES_DEDENNE
         ballseal 0
     endparty
 
@@ -16354,22 +16354,22 @@ trainerdata 470, "Gregg"
         // mon 0
         ivs 0
         abilityslot 0
-        level 20
+        level 30
         pokemon SPECIES_MAGNEMITE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 20
-        pokemon SPECIES_MAGNEMITE
+        level 30
+        pokemon SPECIES_PORYGON
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 20
-        pokemon SPECIES_MAGNEMITE
+        level 30
+        pokemon SPECIES_MAGNETON
         ballseal 0
     endparty
 
@@ -17479,10 +17479,10 @@ trainerdata 498, "Eusine"
         ballseal 0
     endparty
 
-trainerdata 499, "Grunt"
+trainerdata 499, "Elite"
     trainermontype TRAINER_DATA_TYPE_MOVES
-    trainerclass TRAINERCLASS_TEAM_ROCKET
-    nummons 2
+    trainerclass TRAINERCLASS_PKMN_TRAINER_LUCAS_PT
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -17495,23 +17495,34 @@ trainerdata 499, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 18
-        pokemon SPECIES_DROWZEE
-        move MOVE_HYPNOSIS
-        move MOVE_DISABLE
-        move MOVE_CONFUSION
-        move MOVE_HEADBUTT
+        level 35
+        pokemon SPECIES_NUZLEAF
+        move MOVE_FAKE_OUT
+        move MOVE_FEINT_ATTACK
+        move MOVE_SEED_BOMB
+        move MOVE_DETECT
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 20
-        pokemon SPECIES_GRIMER
+        level 36
+        pokemon SPECIES_ARIADOS
+        move MOVE_POISON_FANG
+        move MOVE_SPIDER_WEB
+        move MOVE_SHADOW_SNEAK
+        move MOVE_NIGHT_SHADE
+        ballseal 0
+
+        // mon 2
+        ivs 30
+        abilityslot 0
+        level 34
+        pokemon SPECIES_WEEZING
         move MOVE_SLUDGE
-        move MOVE_DISABLE
-        move MOVE_MUD_SLAP
-        move MOVE_MINIMIZE
+        move MOVE_FLAME_BURST
+        move MOVE_MEMENTO
+        move MOVE_POISON_GAS
         ballseal 0
     endparty
 
@@ -18318,7 +18329,7 @@ trainerdata 520, "Gina"
         ivs 0
         abilityslot 0
         level 55
-        pokemon SPECIES_DENDENNE
+        pokemon SPECIES_DEDENNE
         ballseal 0
     endparty
 
@@ -20739,9 +20750,9 @@ trainerdata 600, "Selina"
         ballseal 0
     endparty
 
-trainerdata 601, "Grunt"
+trainerdata 601, "Elite"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_TEAM_ROCKET
+    trainerclass TRAINERCLASS_PKMN_TRAINER_LUCAS_PT
     nummons 1
     item ITEM_NONE
     item ITEM_NONE
@@ -20755,8 +20766,8 @@ trainerdata 601, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 12
-        pokemon SPECIES_KOFFING
+        level 18
+        pokemon SPECIES_SKORUPI
         ballseal 0
     endparty
 
