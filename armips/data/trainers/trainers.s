@@ -930,11 +930,11 @@ trainerdata 28, "Jake"
         ivs 50
         abilityslot 0
         level 48
-        pokemon SPECIES_BEARTIC
-        move MOVE_SLASH
-        move MOVE_AQUA_JET
-        move MOVE_ICE_PUNCH
-        move MOVE_HAMMER_ARM
+        pokemon SPECIES_ZEBSTRIKA
+        move MOVE_DISCHARGE
+        move MOVE_FLAME_CHARGE
+        move MOVE_WILD_CHARGE
+        move MOVE_CHARGE
         ballseal 0
     endparty
 
@@ -1742,7 +1742,7 @@ trainerdata 46, "Martha"
         ivs 10
         abilityslot 0
         level 18
-        pokemon SPECIES_MISDREAVUS
+        pokemon SPECIES_SHUPPET
         ballseal 0
 
         // mon 1
@@ -3494,11 +3494,11 @@ trainerdata 103, "Blake"
         ivs 50
         abilityslot 32
         level 46
-        pokemon SPECIES_NINJASK
-        move MOVE_DETECT
-        move MOVE_AERIAL_ACE
-        move MOVE_METAL_CLAW
-        move MOVE_X_SCISSOR
+        pokemon SPECIES_BANETTE
+        move MOVE_NASTY_PLOT
+        move MOVE_SHOCK_WAVE
+        move MOVE_SHADOW_CLAW
+        move MOVE_DESTINY_BOND
         ballseal 0
 
         // mon 1
@@ -5985,7 +5985,7 @@ trainerdata 186, "Grunt"
         ivs 30
         abilityslot 0
         level 23
-        pokemon SPECIES_GRIMER
+        pokemon SPECIES_SHUPPET
         ballseal 0
 
         // mon 1
@@ -6076,7 +6076,7 @@ trainerdata 188, "Grunt"
         ivs 30
         abilityslot 0
         level 26
-        pokemon SPECIES_ZUBAT
+        pokemon SPECIES_SHUPPET
         ballseal 0
     endparty
 
@@ -6118,7 +6118,7 @@ trainerdata 189, "Grunt"
         ivs 30
         abilityslot 32
         level 23
-        pokemon SPECIES_RATTATA
+        pokemon SPECIES_SPINARAK
         ballseal 0
     endparty
 
@@ -6188,7 +6188,7 @@ trainerdata 192, "Grunt"
         ivs 30
         abilityslot 0
         level 22
-        pokemon SPECIES_ZUBAT
+        pokemon SPECIES_SHUPPET
         ballseal 0
 
         // mon 1
@@ -6283,7 +6283,7 @@ trainerdata 195, "Grunt"
         ivs 30
         abilityslot 32
         level 27
-        pokemon SPECIES_RATTATA
+        pokemon SPECIES_SHUPPET
         ballseal 0
     endparty
 
@@ -6388,7 +6388,7 @@ trainerdata 199, "Grunt"
         ivs 30
         abilityslot 0
         level 25
-        pokemon SPECIES_GLOOM
+        pokemon SPECIES_MEOWTH
         ballseal 0
     endparty
 
@@ -6423,7 +6423,7 @@ trainerdata 200, "Grunt"
         ivs 30
         abilityslot 32
         level 21
-        pokemon SPECIES_EKANS
+        pokemon SPECIES_SPINARAK
         ballseal 0
 
         // mon 3
@@ -7031,7 +7031,7 @@ trainerdata 219, "Grunt"
         ivs 30
         abilityslot 32
         level 17
-        pokemon SPECIES_RATTATA
+        pokemon SPECIES_SEEDOT
         ballseal 0
     endparty
 
@@ -7255,7 +7255,7 @@ trainerdata 227, "Grunt"
         ivs 30
         abilityslot 0
         level 25
-        pokemon SPECIES_KOFFING
+        pokemon SPECIES_SKORUPI
         ballseal 0
     endparty
 
@@ -12268,7 +12268,7 @@ trainerdata 345, "Ringo"
         ivs 0
         abilityslot 0
         level 25
-        pokemon SPECIES_HELIOPTILE
+        pokemon SPECIES_BLITZLE
         ballseal 0
 
         // mon 1
@@ -13814,7 +13814,7 @@ trainerdata 393, "Teru"
         ivs 0
         abilityslot 32
         level 15
-        pokemon SPECIES_HELIOPTILE
+        pokemon SPECIES_BLITZLE
         ballseal 0
 
         // mon 3
@@ -17365,7 +17365,7 @@ trainerdata 494, "Georgina"
         ivs 10
         abilityslot 0
         level 16
-        pokemon SPECIES_GASTLY
+        pokemon SPECIES_SHUPPET
         ballseal 0
     endparty
 
